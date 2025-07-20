@@ -11,7 +11,7 @@ The analysis is performed on a COVID-19 dataset and aims to:
 
 - Explore the spread of COVID-19 across different regions
 - Identify trends in confirmed, recovered, and death cases
-- Visualize the data using Barcharts
+- Visualize the data using Barcharts ,Heatmap
 - Answer specific questions using data groupings and aggregations 
 
 ---
